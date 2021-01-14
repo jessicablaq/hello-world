@@ -1,2 +1,6 @@
-# hello-world
-My first repository on GitHub
+# Lab 01 - GitHub
+
+CPSC 4800: Computing for Data Analytics
+In this lab you will get practice...
+Exercise 1 - Create a repo on GitHub
+Create a GitHub account here...
